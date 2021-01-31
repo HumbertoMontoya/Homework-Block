@@ -1,0 +1,13 @@
+C:\visualStudioPlus\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.exe
+C:\visualStudioPlus\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.deps.json
+C:\visualStudioPlus\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.runtimeconfig.json
+C:\visualStudioPlus\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.runtimeconfig.dev.json
+C:\visualStudioPlus\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.dll
+C:\visualStudioPlus\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.pdb
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.csprojAssemblyReference.cache
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.AssemblyInfoInputs.cache
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.AssemblyInfo.cs
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.csproj.CoreCompileInputs.cache
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.dll
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.pdb
+C:\visualStudioPlus\Homeworks\obj\Debug\netcoreapp3.1\Homeworks.genruntimeconfig.cache
